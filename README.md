@@ -4,7 +4,7 @@
 Если есть необходимость сделать изображение кликабельным, подойдет следующий синтаксис:
 
 <a href="https://the-unl.com" target="_blank">
-  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
+  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="Umurbek Ashirov" width="180"/>
 </a>
 В данном случае, тэг <img> оборачивается тэгом <а> - ссылкой.
 

@@ -1,4 +1,4 @@
-<img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
+<img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="Umurbek Ashirov" width="180"/>
 В кавычках src="" указывается ссылка на желаемую вами картинку. В данном примере картинка загружена в репозиторий на GitHub. В width="" указывается ширина картинки. Аналогично можно использовать атрибут heigth="", который используется для обозначения высоты.
 
 Если есть необходимость сделать изображение кликабельным, подойдет следующий синтаксис:
